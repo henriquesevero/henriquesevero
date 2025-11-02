@@ -12,6 +12,7 @@
 
 ### Contact me
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ohenriquesevero/)](https://www.linkedin.com/in/ohenriquesevero/)
-[![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato@henriquesever.com)](mailto:contato@henriquesever.com)
+[![Email Badge](https://img.shields.io/badge/-Email-87CEFA?style=flat-square&link=mailto:contato@henriquesevero.com)](mailto:contato@henriquesevero.com)
+
 
 
