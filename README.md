@@ -12,5 +12,5 @@
 
 ### Contact me
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ohenriquebittencourt/)](https://www.linkedin.com/in/ohenriquebittencourt/)
-[![Email Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato@henriquesevero.com)](mailto:henriquebs98@gmail.com)
+[![Email Badge](https://img.shields.io/badge/Fale_comigo-contato%40henriquesevero.com-brightgreen?style=flat-square&logo=mailchimp&logoColor=white)](mailto:contato@henriquesevero.com)
 
