@@ -12,7 +12,6 @@
 
 ### Contact me
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ohenriquesevero/)](https://www.linkedin.com/in/ohenriquesevero/)
-[![Email](https://img.shields.io/badge/Email-contato%40henriquesevero.com-000000?style=flat-square&logo=apple&logoColor=white)](mailto:contato@henriquesevero.com)
-[![Email](https://img.shields.io/badge/Email-contato%40henriquesevero.com-1D1D1F?style=flat-square&logo=https://raw.githubusercontent.com/henriquesevero/assets/main/apple-mail.png&logoColor=white)](mailto:contato@henriquesevero.com)
+[![Email](https://img.shields.io/badge/Email-contato%40henriquesevero.com-1D1D1F?style=flat-square&logo=https://raw.githubusercontent.com/henriquesevero/assets/main/apple-mail.png&logoColor=white)]
 
 
