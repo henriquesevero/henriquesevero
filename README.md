@@ -11,7 +11,7 @@
 <p>:mortar_board: B.S. in Computer Science at <strong>Universidade Paulista.</strong></p>
 
 ### Contact me
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ohenriquesevero/)](https://www.linkedin.com/in/ohenriquesevero/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/henriquesevero/)](https://www.linkedin.com/in/henriquesevero/)
 [![Email Badge](https://img.shields.io/badge/-Email-800080?style=flat-square&link=mailto:contato@henriquesevero.com)](mailto:contato@henriquesevero.com)
 
 
