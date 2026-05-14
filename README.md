@@ -49,5 +49,11 @@ I'm passionate about building scalable, high-performance, and event-driven syste
 
 ## 📬 Contact
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/henriquesevero/)](https://www.linkedin.com/in/henriquesevero/)
-[![Email Badge](https://img.shields.io/badge/-Email-800080?style=flat-square&link=mailto:contato@henriquesevero.com)](mailto:contato@henriquesevero.com)
+<div> 
+  <a href = "mailto:contato@henriquesevero.com"><img src="https://img.shields.io/badge/-EMAIL-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/henriquesevero" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+
+  
+</div>
+
