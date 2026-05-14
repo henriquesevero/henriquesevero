@@ -5,7 +5,7 @@ I'm a Software Engineer with 10+ years of experience, mainly focused on backend 
 I'm passionate about building scalable, high-performance, and event-driven systems.
 
 
-## 🛠 Tech Stack
+## Tech Stack
 
 **Languages & Frameworks**
 
@@ -47,7 +47,7 @@ I'm passionate about building scalable, high-performance, and event-driven syste
 ![Henrique's Streak](https://github-readme-streak-stats.herokuapp.com/?user=henriquesevero&theme=vue-dark&hide_border=true)
 
 
-## 📬 Contact
+## Contact
 
 <div> 
   <a href = "mailto:contato@henriquesevero.com"><img src="https://img.shields.io/badge/-EMAIL-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
