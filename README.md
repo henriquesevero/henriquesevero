@@ -37,7 +37,7 @@ I'm passionate about building scalable, high-performance, and event-driven syste
 
 <table>
   <tr>
-    <td align="center" width="70"><img src="https://skillicons.dev/icons?i=sqlserver" height="36"><br><sub>SQL Server</sub></td>
+    <td align="center" width="70"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="36"><br><sub>SQL Server</sub></td>
     <td align="center" width="70"><img src="https://skillicons.dev/icons?i=postgres" height="36"><br><sub>PostgreSQL</sub></td>
     <td align="center" width="70"><img src="https://skillicons.dev/icons?i=mysql" height="36"><br><sub>MySQL</sub></td>
     <td align="center" width="70"><img src="https://skillicons.dev/icons?i=mongodb" height="36"><br><sub>MongoDB</sub></td>
