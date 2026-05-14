@@ -8,8 +8,11 @@ I enjoy solving complex engineering problems and building systems that remain st
 ## Tech Stack
 
 **Languages & Frameworks:** Python, Golang, C#, TypeScript, React and Angular. 
+
 **Databases:** SQL Server, MySQL, PostgreSQL, MongoDB and Redis.
+
 **Cloud & DevOps:** AWS, Terraform, Docker, Kubernetes, Kafka, Git and Linux.
+
 **AI Tools & Frameworks:** LangChain, LangGraph, MCP, Claude Code and Cursor.
 
 ****
