@@ -9,41 +9,29 @@ I'm passionate about building scalable, high-performance, and event-driven syste
 
 **Languages & Frameworks**
 
-<table>
-  <tr>
-    <td align="center" width="70"><img src="https://skillicons.dev/icons?i=py" height="36"><br><sub>Python</sub></td>
-    <td align="center" width="70"><img src="https://skillicons.dev/icons?i=go" height="36"><br><sub>Go</sub></td>
-    <td align="center" width="70"><img src="https://skillicons.dev/icons?i=cs" height="36"><br><sub>C#</sub></td>
-    <td align="center" width="70"><img src="https://skillicons.dev/icons?i=ts" height="36"><br><sub>TypeScript</sub></td>
-    <td align="center" width="70"><img src="https://skillicons.dev/icons?i=angular" height="36"><br><sub>Angular</sub></td>
-    <td align="center" width="70"><img src="https://skillicons.dev/icons?i=react" height="36"><br><sub>React</sub></td>
-  </tr>
-</table>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 
 **Cloud & DevOps**
 
-<table>
-  <tr>
-    <td align="center" width="70"><img src="https://skillicons.dev/icons?i=aws" height="36"><br><sub>AWS</sub></td>
-    <td align="center" width="70"><img src="https://skillicons.dev/icons?i=terraform" height="36"><br><sub>Terraform</sub></td>
-    <td align="center" width="70"><img src="https://skillicons.dev/icons?i=docker" height="36"><br><sub>Docker</sub></td>
-    <td align="center" width="70"><img src="https://skillicons.dev/icons?i=kubernetes" height="36"><br><sub>Kubernetes</sub></td>
-    <td align="center" width="70"><img src="https://skillicons.dev/icons?i=kafka" height="36"><br><sub>Kafka</sub></td>
-    <td align="center" width="70"><img src="https://skillicons.dev/icons?i=git" height="36"><br><sub>Git</sub></td>
-  </tr>
-</table>
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-web-services&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 **Databases**
 
-<table>
-  <tr>
-    <td align="center" width="70"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="36"><br><sub>SQL Server</sub></td>
-    <td align="center" width="70"><img src="https://skillicons.dev/icons?i=postgres" height="36"><br><sub>PostgreSQL</sub></td>
-    <td align="center" width="70"><img src="https://skillicons.dev/icons?i=mysql" height="36"><br><sub>MySQL</sub></td>
-    <td align="center" width="70"><img src="https://skillicons.dev/icons?i=mongodb" height="36"><br><sub>MongoDB</sub></td>
-    <td align="center" width="70"><img src="https://skillicons.dev/icons?i=redis" height="36"><br><sub>Redis</sub></td>
-  </tr>
-</table>
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 
 ---
 
