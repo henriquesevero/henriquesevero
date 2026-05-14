@@ -40,7 +40,7 @@ I'm passionate about building scalable, high-performance, and event-driven syste
 ![MCP](https://img.shields.io/badge/MCP-D97757?style=flat&logo=anthropic&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=flat&logo=anthropic&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat&logo=cursor&logoColor=white)
-![Devin](https://img.shields.io/badge/Devin-5865F2?style=flat&logoColor=white)
+<!-- ![Devin](https://img.shields.io/badge/Devin-5865F2?style=flat&logoColor=white) -->
 
 ---
 
