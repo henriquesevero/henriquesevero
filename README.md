@@ -4,7 +4,6 @@ I'm a Software Engineer with 10+ years of experience, mainly focused on backend 
 
 I enjoy solving complex engineering problems and building systems that remain stable and efficient as they scale.
 
-
 ## Tech Stack
 
 **Languages & Frameworks:** Python, Golang, C#, TypeScript, React and Angular. 
@@ -18,16 +17,11 @@ I enjoy solving complex engineering problems and building systems that remain st
 ****
 
 <!-- ![Henrique's Streak](https://github-readme-streak-stats.herokuapp.com?user=henriquesevero&theme=prussian&border_radius=5)] -->
-
 ![Henrique's Streak](https://github-readme-streak-stats.herokuapp.com?user=henriquesevero&theme=react&border_radius=5)]
 
 ## Contact
-
 <div> 
   <a href = "mailto:contato@henriquesevero.com"><img src="https://img.shields.io/badge/-EMAIL-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/henriquesevero" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
-
-  
 </div>
 
