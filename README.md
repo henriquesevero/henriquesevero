@@ -17,9 +17,9 @@ I enjoy solving complex engineering problems and building systems that remain st
 
 ****
 
-![Henrique's Streak](https://github-readme-streak-stats.herokuapp.com/?user=henriquesevero&theme=vue-dark&hide_border=true)
+<!-- ![Henrique's Streak](https://github-readme-streak-stats.herokuapp.com?user=henriquesevero&theme=prussian&border_radius=5)] -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=henriquesevero)](https://github.com/anuraghazra/github-readme-stats)
+![Henrique's Streak](https://github-readme-streak-stats.herokuapp.com?user=henriquesevero&theme=react&border_radius=5)]
 
 ## Contact
 
