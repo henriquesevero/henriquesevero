@@ -17,7 +17,7 @@ I enjoy solving complex engineering problems and building systems that remain st
 ****
 
 <!-- ![Henrique's Streak](https://github-readme-streak-stats.herokuapp.com?user=henriquesevero&theme=prussian&border_radius=5)] -->
-![Henrique's Streak](https://github-readme-streak-stats.herokuapp.com?user=henriquesevero&theme=react&border_radius=5)
+
 
 ## Contact
 <div> 
