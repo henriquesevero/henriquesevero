@@ -16,9 +16,6 @@ I enjoy solving complex engineering problems and building systems that remain st
 
 ****
 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-
 ## Contact
 <div> 
   <a href = "mailto:contato@henriquesevero.com"><img src="https://img.shields.io/badge/-EMAIL-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
