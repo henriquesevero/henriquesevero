@@ -16,8 +16,8 @@ I enjoy solving complex engineering problems and building systems that remain st
 
 ****
 
-<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-  <img src="https://streak-stats.demolab.com/?user=henriquesevero&theme=react" alt="GitHub Streak" />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=henriquesevero&show_icons=true&theme=react" alt="Estatísticas do GitHub de Henrique" />
 </a>
 
 ## Contact
