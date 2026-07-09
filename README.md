@@ -16,17 +16,8 @@ I enjoy solving complex engineering problems and building systems that remain st
 
 ****
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=henriquesevero&show_icons=true&theme=react" alt="Estatísticas do GitHub de Henrique" />
-</a>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquesevero&layout=compact&theme=react" alt="Linguagens mais usadas" />
-</a>
-
-<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/commit-graphe?username=henriquesevero&theme=react" alt="Gráfico de Commits" />
-</a>
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 ## Contact
 <div> 
