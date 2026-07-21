@@ -16,6 +16,8 @@ I enjoy solving complex engineering problems and building systems that remain st
 
 ****
 
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=henriquesevero&theme=react&short_numbers=true&mode=weekly" alt="GitHub Streak" /></a>
+
 ## Contact
 <div> 
   <a href = "mailto:contato@henriquesevero.com"><img src="https://img.shields.io/badge/-EMAIL-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
